@@ -61,11 +61,17 @@ div.sponsor-money {
     margin: 2%;
     text-align: center;
     background-color: #FAFAFA;
+    color: #C8C8C8;
 }
 
 .selected-amount {
     border: 2px solid #F6BE00;
 }
+
+#selected-text {
+    color: #F6BE00;
+}
+
 
 .other-amount {
     margin-top: 15%;
@@ -164,6 +170,28 @@ div.focus {
     margin-right: 3%;
     margin-left: 5%;
     text-align: center;
+}
+
+
+.colored-box {
+    width: 60%;
+    height: 250px;
+    box-sizing: border-box;
+    background: #F6BE00;
+    margin-left: 20%;
+
+}
+
+.email-container {
+    margin: 9% 20%;
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+
+}
+
+.email-submit {
+    padding-top: 9.5%;
 }
 
 footer {
