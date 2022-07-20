@@ -72,6 +72,9 @@ div.sponsor-money {
     color: #F6BE00;
 }
 
+#twohundred {
+    background-color: rgba(246, 190, 0, 0.06);
+}
 
 .other-amount {
     margin-top: 15%;
